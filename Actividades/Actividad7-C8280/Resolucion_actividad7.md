@@ -52,4 +52,4 @@ Nos muestra la mac de origen y la mac de destino
 
 
 
-9.  
+9.  Cerramos la pestaña actual y de la misma manera seleccionamos el siguiente http de la tercera fila en donde observaremos de nuevo las capas de "In layer" y "Out Layers", ademas obervamos unas flechas, la primera que se encuentra debajo de la capa 1 de In Layers nos indica la direccion en la que viajan los datos y la flecha que esta entre las capas 7 de In Layers y Out Layers no indica que el servidor esta enviando informacion al ciente.
