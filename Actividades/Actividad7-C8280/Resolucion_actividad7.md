@@ -4,4 +4,6 @@
 
 
 ## Pasos de la resolucion
+texto
 
+![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/1_actividad7.PNG)
