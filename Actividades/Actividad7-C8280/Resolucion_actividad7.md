@@ -24,5 +24,9 @@
 
 5.  Teniendo en cuenta este ulitmo procedimiento, nos mencionan la siguiente pregunta: Mire la pagina del navegador web del cliente web ¿Cambió algo?
 
-   Si, se pudo acceder exitosamente al servidor web
+Si, se pudo acceder exitosamente al servidor web
 
+6.  Luego en la pestaña de Lista de Eventos haremos click en la primera fila en la columna de "Type" para poder obersevar el outbound PDU Details y el OSI Model
+
+
+7.  
