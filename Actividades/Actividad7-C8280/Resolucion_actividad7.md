@@ -17,3 +17,8 @@
 3. Luego colocaremos en la URL "www.osi.local" y le daremos en Go, para poder comenzar a capturar y ver el trafico de red comenzaremos en darle a la flecha que se encuentra al lado derecho de el boton play en el panel de simulación, una cantidad de 4 veces
 
 
+
+4.  Entonces podremos ver en la web browser del cliente web que comenzara aparecer la pagina web del osi local
+
+
+
