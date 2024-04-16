@@ -10,6 +10,7 @@
 ![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/1_actividad7.PNG)
 
 
-2. 
+2. Continuando nos dirigiremos al cliente web y en la pestaña de dekstop nos dirigiremos al "web browser"
 
 ![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/2_activ7.PNG)
+
