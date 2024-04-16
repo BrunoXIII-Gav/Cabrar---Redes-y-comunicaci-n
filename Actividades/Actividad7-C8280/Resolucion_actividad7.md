@@ -74,3 +74,14 @@ El host seria www.osi.local y la capa asociada a esta en Modelo OSI es la capa 7
 
 
 11.  Cerramos la pestaña actual y de la misma manera seleccionamos el siguiente http de la tercera fila en donde observaremos de nuevo las capas de "In layer" y "Out Layers", ademas obervamos unas flechas, la primera que se encuentra debajo de la capa 1 de In Layers nos indica la direccion en la que viajan los datos y la flecha que esta entre las capas 7 de In Layers y Out Layers nos indica que el pase de datos del servidor al cliente web
+
+
+
+12.  Conociendo lo anterior nos mencionan la siguiente pregunta:
+
+Comparando la información que se muestra en la columnaIn Layers con la de la columna Out Layers, ¿cuáles son las principales diferencias?
+
+La capa 7 y la capa 1 no cambia, cambia de la 2 a la 4 y es debido a que por ejemplo en la capa 2 cambia el orden de origen y de destino su direccion mac, en la capa 3 cambia el orden de origen y de destino de su direccion ip, y igual para la capa 4 que cambia el orden de sus puertos, en todos los casos se invierte el de origen y de destino.
+
+
+13.  
