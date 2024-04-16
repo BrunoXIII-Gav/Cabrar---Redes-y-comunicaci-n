@@ -48,8 +48,29 @@ el destino es 192.168.1.254
 Nos muestra la mac de origen y la mac de destino
 
 
-8.  Prosiguiendo, en la parte de Lista de Eventos, haremos click en la segunda fila de la columna Type, en el cuadrado morado HTTP, podemos observar que solo esta activa la capa uno debido que el dispositivo se mueve de la trama búfer y lo coloca en la red
+8.  Ahora nos dirigiremos a la pestaña de "Outbound PDU Details" y hay encontraremos en PDU Formats un reflejo de las capas TCP/IP, en esta seccion encontraremos informacion mas detallada de la que hay en la pestaña OSI Model
 
 
 
-9.  Cerramos la pestaña actual y de la misma manera seleccionamos el siguiente http de la tercera fila en donde observaremos de nuevo las capas de "In layer" y "Out Layers", ademas obervamos unas flechas, la primera que se encuentra debajo de la capa 1 de In Layers nos indica la direccion en la que viajan los datos y la flecha que esta entre las capas 7 de In Layers y Out Layers no indica que el servidor esta enviando informacion al ciente.
+9. Sabiendo lo anterior nos menciona las siguientes preguntas:
+
+¿Cuál es la información común que figura en la sección IP de los PDU Details en comparación con la información que figura en la pestaña del OSI Model ? ¿Con qué capa está asociado?
+
+En comun es la direccion IP tanto de origen como de destino y en la pestaña del modelo osi se encuentran en la capa 3
+
+¿Cuál es la información común que aparece en la sección TCP de PDU Details, en comparación con la información que aparece en la pestaña delOSI Model , y con qué capa está asociada?
+
+En comun se encuentran los puertos de origen y de destino, y en el osi model aparecen en la capa 4
+
+¿Cuál es el host que aparece en la sección HTTP de los PDU Details? ¿Con qué capa se asociaría esta información en la pestaña del MOdelo OSI?
+
+El host seria www.osi.local y la capa asociada a esta en Modelo OSI es la capa 7  
+
+
+
+
+10.  Prosiguiendo, en la parte de Lista de Eventos, haremos click en la segunda fila de la columna Type, en el cuadrado morado HTTP, podemos observar que solo esta activa la capa uno debido que el dispositivo se mueve de la trama búfer y lo coloca en la red
+
+
+
+11.  Cerramos la pestaña actual y de la misma manera seleccionamos el siguiente http de la tercera fila en donde observaremos de nuevo las capas de "In layer" y "Out Layers", ademas obervamos unas flechas, la primera que se encuentra debajo de la capa 1 de In Layers nos indica la direccion en la que viajan los datos y la flecha que esta entre las capas 7 de In Layers y Out Layers nos indica que el pase de datos del servidor al cliente web
