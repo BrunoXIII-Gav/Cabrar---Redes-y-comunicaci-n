@@ -24,5 +24,5 @@
 
 5.  Teniendo en cuenta este ulitmo procedimiento, nos mencionan la siguiente pregunta: Mire la pagina del navegador web del cliente web ¿Cambió algo?
 
-Si, se pudo acceder exitosamente al servidor web
+   Si, se pudo acceder exitosamente al servidor web
 
