@@ -31,7 +31,7 @@ Si, se pudo acceder exitosamente al servidor web
 
 7.  A continuación nos mencionan las siguientes preguntas:
 
-¿Qué información se enumera en los pasos numerados directamente debajo de los cuadros In Layers y Out Layers para Layer 7?
+7_1. ¿Qué información se enumera en los pasos numerados directamente debajo de los cuadros In Layers y Out Layers para Layer 7?
 
 Nos muestra esta informacion, que el cliente http envia una solicitud http al servidor
 
