@@ -14,3 +14,6 @@
 
 ![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/2_activ7.PNG)
 
+3. Luego colocaremos en la URL "www.osi.local" y le daremos en Go, para poder comenzar a capturar y ver el trafico de red comenzaremos en darle a la flecha que se encuentra al lado derecho de el boton play en el panel de simulación, una cantidad de 4 veces
+
+
