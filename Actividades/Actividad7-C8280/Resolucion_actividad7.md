@@ -115,4 +115,35 @@ Solo se abren, OSI Model y Inbound PDU Details, debido a que este es la informac
 
 ### PARTE 2
 
-1. 
+1. Esta parte de la actividad, examinaremos algunos protocolos son parte de TCP/IP. En la sección de filtros de lista de eventos al seleccionar el boton Mostrar todo y tenemos la siguiente pregunta:
+¿Qué tipos de eventos adicionales se muestran?
+tenemos ARP,DNS,TCP y HTTP, o sea se han agregado 3 protocolos más aparte del HTTP.
+
+2. Estas entradas adicionales dentro del conjunto TCP/IP tienen como protocolo la resolución de direcciones(ARP), DNS su rol es convertir un nombre de pagina web a una dirección IP.
+
+3. Para explorar las pestañas OSI Model y PDU Detail hacemos clic en el primer evento de DNS en la columna Type y podemos observar que el proceso de encapsulamiento. En la pestaña OSI Model en el Layer 7, observamos una descripción de lo que ocurre de las cuales es muy útil para comprender el proceso de comunicación. Al hacer clic en la pestaña OutBound PDU Details nos preguntamos:
+
+¿Qué información se indica en el campo NAME: en la sección de DNS QUERY?
+Nos indica que es www.osi.local
+
+4. Ahora hacemos clic en la ultimo evento de DNS en la lista de eventos, las siguientes preguntas son:
+¿En qué dispositivo se capturó la PDU?
+Se capturó el Cliente Web.
+
+¿Cuál es el valor que aparece junto a ADRRESS: en la sección DNS ANSWER de inbound PDU Details?
+La dirección IP que aparece es 192.168.1.254 que es la dirección del servidor web porque de ahi esta ligado este evento.
+
+5. Buscamos el primer evento de HTTP en la lista de eventos y hacemos clic. En la pestaña OSI Model vemos el layer 4 y nos preguntamos:
+En la lista numerada directamente abajo de In Layers y Out Layers,¿cuál es la información que se muestra en los elementos 4 y 5?
+La 4 nos indica que la conexión del TCP ha sido exitosa y la 5 que el dispostivio a estanlecido la conexión en estado ESTABLISHED.
+
+6. En el ultimo evento TCP. Al resaltar el Layer 4 en el OSI Model, podemos visualizar los pasos enumarados directamente abajo de In Layers y Out Layers, nos preguntamos:
+
+¿Cuál es el propósito de este evento, basado e nla información proporcionada en el último elemento de la lista(debe ser el elemento 4)?
+Nos indica que el dispositivo a sido establecido en estado Closed, nos indica que ha finalizado la conexión TCP.
+
+Ahora responderemos las siguientes preguntas de desafío:
+1. Según la información que se inspeccionó durante la captura de Packet Tracer.¿qué número de puerto está escuchando el servidor Web para la solicitud web ?
+El servidor web esta escuchando en el puerto 80.
+2. En cuál esta el Servidor Web escuchando para una solicitud DNS?
+La solicitud DNS que esta escuchando al servidor web en el puerto 53.
