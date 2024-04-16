@@ -5,6 +5,8 @@
 
 ## Pasos de la resolucion
 
+### PARTE 1
+
 1. Se debe colocar en el modo de simulacion para poder ver la animacion de los PDU y asi comprender mejor, luego se debe colocar en presionar en "Show All/None" para evitar que todos los protocolos aparezcan y poder ver por ahora el protocolo http que marcaremos en la pestaña de Misc
 
 ![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/1_actividad7.PNG)
@@ -111,4 +113,6 @@ Solo se abren, OSI Model y Inbound PDU Details, debido a que este es la informac
 
 ![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/14_activ7.PNG)
 
-15.   
+### PARTE 2
+
+1. 
