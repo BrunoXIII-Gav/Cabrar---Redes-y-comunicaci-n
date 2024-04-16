@@ -84,4 +84,16 @@ Comparando la información que se muestra en la columnaIn Layers con la de la co
 La capa 7 y la capa 1 no cambia, cambia de la 2 a la 4 y es debido a que por ejemplo en la capa 2 cambia el orden de origen y de destino su direccion mac, en la capa 3 cambia el orden de origen y de destino de su direccion ip, y igual para la capa 4 que cambia el orden de sus puertos, en todos los casos se invierte el de origen y de destino.
 
 
-13.  
+13.  A continuacion observamos las diferencias entre "Inbound PDU Details" y "Outbound PDU Details" y su mayor diferencia es que en cada capa lo que cambia vendria a ser el orden en el que viajan ya que por ejemplo en el IP de origen en Inbound PDU Details es 192.168.1.1, este seria en Outboun PDU Details su IP de destino y asi para cada capa.
+
+
+
+14.   Cerramos la pestaña que teniamos abierta y para terminar de recorrer los protoclos http, le daremos click en el ultimo http de la columna Type y nos mencionan la siguiente pregunta:
+
+¿Cuántas pestañas se muestran con este evento? Explique.
+
+Solo se abren, OSI Model y Inbound PDU Details, debido a que este es la informacion que esta llegando al cliente web,por eso solo le esta llegando PDU de entrada, y este llega desde el servidor
+
+
+
+15.   
