@@ -48,3 +48,8 @@ el destino es 192.168.1.254
 Nos muestra la mac de origen y la mac de destino
 
 
+8.  Prosiguiendo, en la parte de Lista de Eventos, haremos click en la segunda fila de la columna Type, en el cuadrado morado HTTP, podemos observar que solo esta activa la capa uno debido que el dispositivo se mueve de la trama búfer y lo coloca en la red
+
+
+
+9.  
