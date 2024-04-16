@@ -165,3 +165,5 @@ El servidor web esta escuchando en el puerto 80.
 
 3. En cuál esta el Servidor Web escuchando para una solicitud DNS?
 La solicitud DNS que esta escuchando al servidor web en el puerto 53.
+
+![](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/24_activ7.png)
