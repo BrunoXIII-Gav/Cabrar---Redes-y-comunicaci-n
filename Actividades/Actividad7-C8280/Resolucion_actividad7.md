@@ -20,7 +20,7 @@
 
 4.  Entonces podremos ver en la web browser del cliente web que comenzara aparecer la pagina web del osi local
 
-![image]()
+![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/4_activ7.PNG)
 
 5.  Teniendo en cuenta este ulitmo procedimiento, nos mencionan la siguiente pregunta: Mire la pagina del navegador web del cliente web ¿Cambió algo?
 
@@ -28,7 +28,7 @@ Si, se pudo acceder exitosamente al servidor web
 
 6.  Luego en la pestaña de Lista de Eventos haremos click en la primera fila en la columna de "Type" para poder obersevar el outbound PDU Details y el OSI Model, aqui solo podremos ver a estos 2 debido que es el inicio de la retransmisión. Ademas podemos observar todas las capas desde la 1 hasta la 7
 
-![image]()
+![image](https://github.com/BrunoXIII-Gav/Cabrar---Redes-y-comunicaci-n/blob/main/Actividades/Actividad7-C8280/Imagenes_actividad7/6_activ7.PNG)
 
 7.  A continuación nos mencionan las siguientes preguntas:
 
