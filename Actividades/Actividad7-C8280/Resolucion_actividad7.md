@@ -32,15 +32,19 @@ Si, se pudo acceder exitosamente al servidor web
 7.  A continuación nos mencionan las siguientes preguntas:
 
 ¿Qué información se enumera en los pasos numerados directamente debajo de los cuadros In Layers y Out Layers para Layer 7?
+
 Nos muestra esta informacion, que el cliente http envia una solicitud http al servidor
 
 ¿Cuál es el valor del Dst Port para Layer 4 en la columna Out Layers ?
+
 Es el Puerto 80
 
 ¿Cual es el Dest? ¿IP para Layer 3 en la columna Out Layers?
+
 el destino es 192.168.1.254
 
 ¿Qué información se muestra en Layer 2 en la columna Out Layers ?
+
 Nos muestra la mac de origen y la mac de destino
 
 
